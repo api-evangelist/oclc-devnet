@@ -1,0 +1,69 @@
+{
+    "name": "OCLC DevNet",
+    "description": "OCLC is a global library cooperative that provides shared technology services, original research and community programs for its membership and the library community at large. We are librarians, technologists, researchers, pioneers, leaders and learners...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1453-oclc-devnet.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "libraries"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/oclc-devnet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OCLC DevNet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1453-oclc-devnet.jpg",
+            "humanURL": "http:\/\/www.oclc.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/oclc-devnet-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/ill.sd00.worldcat.org"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/community.oclc.org\/cooperative\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/community.oclc.org\/cooperative\/atom.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/oclc"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/oclc"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.oclc.org\/developer\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OCLC"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/oclcdevnet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.oclc.org"
+        }
+    ]
+}
